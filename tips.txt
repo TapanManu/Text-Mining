@@ -9,3 +9,11 @@ https://chrisalbon.com/python/cleaning_text.html
 
 ## Documentation
 https://docs.python.org/3/library/re.html
+
+
+WordNet based similarity measures in NLTK: http://www.nltk.org/howto/wordnet.html
+
+    Latent Dirichlet Allocation: https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation
+    Description of the plate notation: https://en.wikipedia.org/wiki/Plate_notation
+    
+    Latent Dirichlet Allocation. Journal of Machine Learning Research (JMLR); 3(Jan):993-1022, 2003.http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf
